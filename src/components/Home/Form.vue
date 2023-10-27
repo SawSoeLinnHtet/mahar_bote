@@ -13,7 +13,7 @@
             <VueDatePicker v-model="form.date" format="dd-MM-yyyy" auto-apply :enable-time-picker="false"></VueDatePicker>
         </div>
         <div class="mb-3 px-2">
-            <button type="submit" class="mt-3 w-100 btn btn-theme btn-sm">Submit</button>
+            <button type="submit" class="mt-3 py-2 w-100 btn btn-theme btn-sm">Submit</button>
         </div>
     </form>
 </template>
